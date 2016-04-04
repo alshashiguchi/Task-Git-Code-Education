@@ -5,3 +5,5 @@ Utilizando Markdown, coloque as principais instruções que você utilizou para 
 Assim que terminar essa fase, coloque a URL de seu repositório na área de entrega de projetos, para fazermos a validação.
 
 OBS: Sim, sempre iremos força-lo a fazer sempre um pouco mais =)
+
+Segunda tarefa primeiro commit após a geração da release
