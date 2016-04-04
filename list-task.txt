@@ -7,3 +7,8 @@ Assim que terminar essa fase, coloque a URL de seu repositório na área de entr
 OBS: Sim, sempre iremos força-lo a fazer sempre um pouco mais =)
 
 Segunda tarefa primeiro commit após a geração da release
+
+
+Gerando 2 releases
+
+Nessa fase final você gerará um release da versão 0.1.0 de seu código; após isso, você fará mais alguns commits e também gerará um segundo release com a versão 0.1.1.
